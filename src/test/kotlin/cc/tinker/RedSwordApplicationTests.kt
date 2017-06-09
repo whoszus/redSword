@@ -11,6 +11,7 @@ class RedSwordApplicationTests {
 
 	@Test
 	fun contextLoads() {
+
 	}
 
 }
